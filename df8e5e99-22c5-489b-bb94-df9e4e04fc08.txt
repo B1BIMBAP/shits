@@ -1,0 +1,209 @@
+
+= e912c296-f899-4cdd-886d-e9840ae07149 =
+||<bgcolor=#DCDCDC>[[SoC|프로세서]]||[[퀄컴 스냅드래곤 4]]00 APQ8030AB [[SoC]]. [[Qualcomm Krait]] 300 MP2 1.7 GHz [[CPU]], [[퀄컴 Adreno]] 305 [[GPU]]||
+||<bgcolor=#DCDCDC>[[메모리]]||2 GB LPDDR2 SDRAM, 64 GB 내장 메모리||
+||<bgcolor=#DCDCDC>[[디스플레이]]||4.5인치 [[해상도/일람|qHD]](960 x 540) S-Stripe RGB 서브픽셀 방식의 [[삼성D]] Super [[AMOLED]][br]멀티터치 지원 정전식 [[터치 스크린]]||
+||<bgcolor=#DCDCDC>근접통신||[[Wi-Fi]] 802.11b/g/n, [[블루투스]] 4.0+BLE, [[NFC]]||
+||<bgcolor=#DCDCDC>[[카메라]]||전면 500만 화소, 후면 800만 화소 [[AF]] 및 [[LED]] [[플래시(카메라)|플래시]]||
+||<bgcolor=#DCDCDC>[[배터리]]||내장형 Li-Ion 2150 mAh||
+||<bgcolor=#DCDCDC>[[운영체제]]||[[안드로이드(운영체제)/버전|안드로이드]] 4.2 (Jelly Bean)||
+||<bgcolor=#DCDCDC>규격||65.5 x 131.3 x 7.3 mm, 118.3 g||
+||<bgcolor=#DCDCDC>색상||블랙||
+||<bgcolor=#DCDCDC>단자정보||<-3>USB 2.0 Type-C x 1, 3.5 mm 단자 x 1||
+||<bgcolor=#DCDCDC>기타||IP68 등급 [[방수]] 방진 지원, [[FM]] [[라디오]] 지원||
+
+= c0fc3e0e-25ec-46ed-92c5-5c5274263071 =
+||<bgcolor=#DCDCDC>[[SoC|프로세서]]||[[삼성 엑시노스 7]] Octa (7420) [[SoC]]. [[ARM big.LITTLE]]↓, [[ARM Mali]]-T760 MP8 772 MHz [[GPU]][br][[ARM Cortex-A57]] MP4 2.1 GHz [[CPU]] + [[ARM Cortex-A53]] MP4 1.5 GHz [[CPU]]||
+||<bgcolor=#DCDCDC>[[메모리]]||4 GB LPDDR4 SDRAM, 800 GB SSD||
+||<bgcolor=#DCDCDC>[[디스플레이]]||10.1인치 [[해상도/일람|WQXGA]](2560 x 1600) RGB 서브픽셀 방식의 [[삼성D]] [[삼성D]] PLS TFT-LCD[br]멀티터치 지원 정전식 [[터치 스크린]]||
+||<bgcolor=#DCDCDC>근접통신||[[Wi-Fi]] 802.11a/b/g/n/ac, [[블루투스]] 4.2||
+||<bgcolor=#DCDCDC>[[카메라]]||전면 500만 화소 [[AF]]||
+||<bgcolor=#DCDCDC>[[배터리]]||내장형 Li-Ion 8100 mAh||
+||<bgcolor=#DCDCDC>[[운영체제]]||[[쿠분투|Kubuntu]] 14.04.5 → 16.04.3 LTS[br][[KDE]] Plasma 5.8 → 5.12 LTS||
+||<bgcolor=#DCDCDC>규격||155.4 x 251 x 8.8 mm, 596 g||
+||<bgcolor=#DCDCDC>색상||루나틱 미드나잇||
+||<bgcolor=#DCDCDC>단자정보||<-3>USB 2.0 Type-C x 2, 3.5 mm 단자 x 1, 도킹 전용 마그네틱 단자 x 1||
+||<bgcolor=#DCDCDC>기타|| ||
+
+= ffe6e448-3d97-4d5e-baf7-0c79a291edf7 =
+||<bgcolor=#DCDCDC>[[SoC|프로세서]]||[[퀄컴 스냅드래곤 8]]08 APQ8092 [[SoC]]. [[ARM big.LITTLE]]↓, [[퀄컴 Adreno]] 418 600 MHz [[GPU]][br][[ARM Cortex-A57]] MP2 1.8 GHz [[CPU]] + [[ARM Cortex-A53]] MP4 1.4 GHz [[CPU]]||
+||<bgcolor=#DCDCDC>[[메모리]]||2 GB LPDDR3 SDRAM, 32 GB 내장 메모리||
+||<bgcolor=#DCDCDC>[[디스플레이]]||12.5인치 [[해상도/일람|1920 x 1280]] RGB 서브픽셀 방식의 [[삼성D]] [[삼성D]] PLS TFT-LCD[br]멀티터치 지원 정전식 [[터치 스크린]]||
+||<bgcolor=#DCDCDC>근접통신||[[Wi-Fi]] 802.11a/b/g/n/ac, [[블루투스]] 4.1||
+||<bgcolor=#DCDCDC>[[카메라]]||전면 500만 화소 [[AF]]||
+||<bgcolor=#DCDCDC>[[배터리]]||내장형 Li-Ion 8800 mAh||
+||<bgcolor=#DCDCDC>[[운영체제]]||[[쿠분투|Kubuntu]] 16.04.3 LTS[br][[KDE]] 5.12 LTS||
+||<bgcolor=#DCDCDC>규격||210 x 297 x 9.9 mm, 935 g||
+||<bgcolor=#DCDCDC>색상||화이트||
+||<bgcolor=#DCDCDC>단자정보||<-3>USB 2.0 Type-C x 1, 3.5 mm 단자 x 1||
+||<bgcolor=#DCDCDC>기타|| ||
+
+= 250d697a-4ff2-05dd-801c-7701b10a741a =
+2018-03-04T20:06:23+09:00
+||<bgcolor=#DCDCDC>[[SoC|프로세서]]||[[미디어텍|MediaTek]] MT8161 [[SoC]]. [[ARM Cortex-A53]] MP4 1.3 GHz [[CPU]], [[ARM Mali]]-T720 MP2 800 MHz [[GPU]]||
+||<bgcolor=#DCDCDC>[[메모리]]||1 GB LPDDR3 SDRAM, 32 GB 내장 메모리, [[Secure Digital|micro SDXC]] (규격 상 2 TB, 400 GB 공식 지원)||
+||<bgcolor=#DCDCDC>[[디스플레이]]||8.0인치 [[해상도/일람|WUXGA]](1920 x 1200) RGB 서브픽셀 방식의 [[삼성D]] [[삼성D]] PLS TFT-LCD[br]멀티터치 지원 정전식 [[터치 스크린]]||
+||<bgcolor=#DCDCDC>[[배터리]]||내장형 Li-Ion 4200 mAh||
+||<bgcolor=#DCDCDC>[[운영체제]]||[[안드로이드(운영체제)/버전|안드로이드]] 6.0 (Marshmallow) 기반 [[임베디드 시스템]][br][[팬택 플럭스 UI]] 4.0||
+||<bgcolor=#DCDCDC>규격||127 x 216.2 x 6.9 mm, 293 g||
+||<bgcolor=#DCDCDC>색상||화이트 ||
+||<bgcolor=#DCDCDC>단자정보||<-3>[[USB 2.0]] Type-C x 1||
+||<bgcolor=#DCDCDC>기타||256 레벨(필압) 스타일러스 펜 지원 ||
+
+= 3b3bc94e-6817-aa88-1817-ef77ba6742d4 =
+2018-03-07T22:53:43+09:00
+||<bgcolor=#DCDCDC>[[SoC|프로세서]]||[[Texas Instruments]] DaVinci DM3725 [[SoC]]. [[ARM Cortex-A8]] 600 MHz [[CPU]]||
+||<bgcolor=#DCDCDC>[[메모리]]||128 MB LPDDR1 SDRAM, 128 GB 내장 메모리, [[Secure Digital|micro SDXC]] (규격 상 2 TB, 400 GB 공식 지원)||
+||<bgcolor=#DCDCDC>[[디스플레이]]||4.3인치 [[해상도/일람|480 x 272]] RGB 서브픽셀 방식의 TFT-LCD[br]감압식 [[터치 스크린]]||
+||<bgcolor=#DCDCDC>[[배터리]]||내장형 Li-Ion 1500 mAh||
+||<bgcolor=#DCDCDC>[[운영체제]]||[[임베디드 시스템]][br][[팬택 플럭스 UI]] 4.0||
+||<bgcolor=#DCDCDC>규격||141 x 80.5 x 18.5 mm, 235.7 g||
+||<bgcolor=#DCDCDC>색상||화이트 ||
+||<bgcolor=#DCDCDC>단자정보||<-3>[[USB 2.0]] micro Type-B x 1, 3.5 mm 단자 x 1||
+||<bgcolor=#DCDCDC>기타|| ||
+
+= CURITEL =
+== 3 ==
+||<bgcolor=#DCDCDC>[[SoC|프로세서]]||[[퀄컴 스냅드래곤 4]]35 MSM8940 [[SoC]]. [[ARM Cortex-A53]] MP8 1.4 GHz [[CPU]], [[퀄컴 Adreno]] 505 [[GPU]]||
+||<bgcolor=#DCDCDC>[[메모리]]||2 GB LPDDR3 SDRAM, 16 GB [[eMMC]] -.- 규격 내장 메모리, [[Secure Digital|micro SDXC]] (2 TB 공식 지원)||
+||<bgcolor=#DCDCDC>[[디스플레이|디스[br]플레이]]||5.0인치 [[해상도/일람|HD]](1280 x 720) RGB 서브픽셀 방식의 IPS TFT-LCD[br]멀티터치 지원 정전식 In-cell [[터치 스크린]]||
+||<bgcolor=#DCDCDC>[[네트워크]]||[[LTE]] Cat.4, [[4G|HSPA+]] 42Mbps, [[WCDMA|HSDPA & HSUPA & UMTS]], [[GSM|GSM & EDGE]]||
+||<bgcolor=#DCDCDC>근접통신||[[Wi-Fi]] 802.11b/g/n, [[블루투스]] 4.2, [[NFC]]||
+||<bgcolor=#DCDCDC>[[카메라]]||전면 500만 화소, 후면 1,300만 화소 [[AF]] 및 [[LED]] [[플래시(카메라)|플래시]]||
+||<bgcolor=#DCDCDC>[[배터리]]||Li-Ion 2600 mAh||
+||<bgcolor=#DCDCDC>[[운영체제]]||[[안드로이드(운영체제)/버전|안드로이드]] 8.1 (Oreo)[br]큐리텔 큐리 UI 1.0||
+||<bgcolor=#DCDCDC>규격||72.1 x 144.8 x 8.1 mm, 142 g||
+||<bgcolor=#DCDCDC>색상[* 한국 출시 당시 기본 색상에 볼드 처리]||'''실버''', '''화이트'''||
+||<bgcolor=#DCDCDC>단자정보||USB 2.0 Type-C x 1, 3.5 mm 단자 x 1||
+||<bgcolor=#DCDCDC>기타||[[VoLTE]] 및 Wideband Audio 지원, 지상파 HD [[DMB]] 및 고화질 스마트 [[DMB]] 지원||
+||<-2><bgcolor=#DCDCDC><:>'''한국 내수용 모델인 CM-E300 이외 지역 하드웨어 사양'''{{{#!folding [ 펼치기 · 접기 ]
+||<(><bgcolor=#DCDCDC>[[SoC|프로세서]]||<(>[[퀄컴 스냅드래곤 4]]35 MSM8940 [[SoC]]. [[ARM Cortex-A53]] MP8 1.4 GHz [[CPU]], [[퀄컴 Adreno]] 505 [[GPU]]||
+||<(><bgcolor=#DCDCDC>[[메모리]]||<(>2 / 3 GB LPDDR3 SDRAM, 16 / 32 GB [[eMMC]] -.- 규격 내장 메모리, [[Secure Digital|micro SDHC]] (최대 32 GB 지원)||
+||<(><bgcolor=#DCDCDC>[[디스플레이|디스[br]플레이]]||<(>5.0인치 [[해상도/일람|HD]](1280 x 720) RGB 서브픽셀 방식의 IPS TFT-LCD[br]멀티터치 지원 정전식 In-cell [[터치 스크린]]||
+||<(><bgcolor=#DCDCDC>[[네트워크]]||<(>[[LTE]] Cat.4, [[4G|HSPA+]] 42Mbps, [[WCDMA|HSDPA & HSUPA & UMTS]], [[GSM|GSM & EDGE]], [[CDMA2000|CDMA & EV-DO Rev.A]][* 지원 모델 추가 지원]||
+||<(><bgcolor=#DCDCDC>근접통신||<(>[[Wi-Fi]] 802.11b/g/n, [[블루투스]] 4.2, [[NFC]]||
+||<(><bgcolor=#DCDCDC>[[카메라]]||<(>전면 500만 화소, 후면 1,300만 화소 [[AF]] 및 [[LED]] [[플래시(카메라)|플래시]]||
+||<(><bgcolor=#DCDCDC>[[배터리]]||<(>Li-Ion 2600 mAh||
+||<(><bgcolor=#DCDCDC>[[운영체제]]||<(>[[안드로이드(운영체제)/버전|안드로이드]] 8.1 (Oreo)[br]큐리텔 큐리 UI 1.0||
+||<(><bgcolor=#DCDCDC>규격||<(>72.1 x 144.8 x 8.1 mm, 142 g||
+||<(><bgcolor=#DCDCDC>색상[* 제품 공개 당시 같이 공개된 기본 색상에 볼드 처리]||<(>|'''실버''', '''화이트''', '''골드'''||
+||<(><bgcolor=#DCDCDC>단자정보||<(>USB 2.0 Type-C x 1, 3.5 mm 단자 x 1[br]일부 모델 하이브리드 듀얼심 지원 ||
+||<(><bgcolor=#DCDCDC>기타||<(>[[FM#s-2|FM]] [[라디오]] 지원||
+}}}||
+== 5 ==
+||<bgcolor=#DCDCDC>[[SoC|프로세서]]||[[퀄컴 스냅드래곤 6]]36 SDM636 [[SoC]]. [[Qualcomm Kryo]] 260 MP8 1.8 GHz [[CPU]], [[퀄컴 Adreno]] 509 [[GPU]]||
+||<bgcolor=#DCDCDC>[[메모리]]||4 GB LPDDR4 SDRAM, 32 / 64 GB [[eMMC]] -.- 규격 내장 메모리, [[Secure Digital|micro SDXC]] (2 TB 공식 지원)||
+||<bgcolor=#DCDCDC>[[디스플레이|디스[br]플레이]]||5.6인치 [[해상도/일람|2160 x 1080]] RGB 서브픽셀 방식의 IPS TFT-LCD[br]멀티터치 지원 정전식 [[터치 스크린]]||
+||<bgcolor=#DCDCDC>[[네트워크]]||[[LTE]] Cat.6, [[4G|HSPA+]] 42Mbps, [[WCDMA|HSDPA & HSUPA & UMTS]], [[GSM|GSM & EDGE]]||
+||<bgcolor=#DCDCDC>근접통신||[[Wi-Fi]] 802.11a/b/g/n/ac, [[블루투스]] 5.0, [[NFC]]||
+||<bgcolor=#DCDCDC>[[카메라]]||전면 800만 화소, 후면 1,300만 화소 [[AF]] 및 [[LED]] [[플래시(카메라)|플래시]]||
+||<bgcolor=#DCDCDC>[[배터리]]||Li-Ion 2900 mAh||
+||<bgcolor=#DCDCDC>[[운영체제]]||[[안드로이드(운영체제)/버전|안드로이드]] 8.1 (Oreo)[br]큐리텔 큐리 UI 1.0||
+||<bgcolor=#DCDCDC>규격||69.3 x 142.5 x 8.1 mm, 149 g||
+||<bgcolor=#DCDCDC>색상[* 한국 출시 당시 기본 색상에 볼드 처리]||'''블랙''', '''화이트''', '''레드'''||
+||<bgcolor=#DCDCDC>단자정보||[[USB 3.0|USB 3.1 Gen1]] Type-C x 1, 3.5 mm 단자 x 1||
+||<bgcolor=#DCDCDC>기타||[[VoLTE]] 및 Wideband Audio 지원, 에어리어 방식 [[지문인식]] 지원, 지상파 HD [[DMB]] 및 고화질 스마트 [[DMB]] 지원||
+||<-2><bgcolor=#DCDCDC><:>'''한국 내수용 모델인 CM-E500 이외 지역 하드웨어 사양'''{{{#!folding [ 펼치기 · 접기 ]
+||<(><bgcolor=#DCDCDC>[[SoC|프로세서]]||<(>[[SoC|프로세서]]|[[퀄컴 스냅드래곤 6]]36 SDM636 [[SoC]]. [[Qualcomm Kryo]] 260 MP8 1.8 GHz [[CPU]], [[퀄컴 Adreno]] 509 [[GPU]]||
+||<(><bgcolor=#DCDCDC>[[메모리]]||<(>4 GB LPDDR4 SDRAM, 16 / 32 / 64 GB [[eMMC]] -.- 규격 내장 메모리, [[Secure Digital|micro SDHC]] (최대 32 GB 지원)||
+||<(><bgcolor=#DCDCDC>[[디스플레이|디스[br]플레이]]||<(>5.6인치 [[해상도/일람|2160 x 1080]] RGB 서브픽셀 방식의 IPS TFT-LCD[br]멀티터치 지원 정전식 [[터치 스크린]]||
+||<(><bgcolor=#DCDCDC>[[네트워크]]||<(>[[LTE]] Cat.7, [[4G|HSPA+]] 42Mbps, [[WCDMA|HSDPA & HSUPA & UMTS]], [[GSM|GSM & EDGE]], [[CDMA2000|CDMA & EV-DO Rev.A]][* 지원 모델 추가 지원]||
+||<(><bgcolor=#DCDCDC>근접통신||<(>[[Wi-Fi]] 802.11a/b/g/n/ac, [[블루투스]] 5.0, [[NFC]]||
+||<(><bgcolor=#DCDCDC>[[카메라]]||<(>전면 800만 화소, 후면 1,300만 화소 [[AF]] 및 [[LED]] [[플래시(카메라)|플래시]]||
+||<(><bgcolor=#DCDCDC>[[배터리]]||<(>Li-Ion 2900 mAh||
+||<(><bgcolor=#DCDCDC>[[운영체제]]||<(>[[안드로이드(운영체제)/버전|안드로이드]] 8.1 (Oreo)[br]큐리텔 큐리 UI 1.0||
+||<(><bgcolor=#DCDCDC>규격||<(>69.3 x 142.5 x 8.1 mm, 149 g||
+||<(><bgcolor=#DCDCDC>색상[* 제품 공개 당시 같이 공개된 기본 색상에 볼드 처리]||<(>'''블랙''', '''화이트'''||
+||<(><bgcolor=#DCDCDC>단자정보||<(>[[USB 3.0|USB 3.1 Gen1]] Type-C x 1, 3.5 mm 단자 x 1[br]일부 모델 하이브리드 듀얼심 지원 ||
+||<(><bgcolor=#DCDCDC>기타||<(>[[FM#s-2|FM]] [[라디오]] 지원, 에어리어 방식 [[지문인식]] 지원||
+}}}||
+== 7 ==
+||<bgcolor=#DCDCDC>[[SoC|프로세서]]||[[퀄컴 스냅드래곤 6]]60 SDM660 [[SoC]]. [[Qualcomm Kryo]] 260 MP4 2.2 GHz + MP4 1.8 GHz [[CPU]], [[퀄컴 Adreno]] 512 [[GPU]]||
+||<bgcolor=#DCDCDC>[[메모리]]||4 GB LPDDR4 SDRAM, 32 / 64 GB [[eMMC]] 2.0 규격 내장 메모리, [[Secure Digital|micro SDXC]] (2 TB 공식 지원)||
+||<bgcolor=#DCDCDC>[[디스플레이|디스[br]플레이]]||6.0인치 [[해상도/일람|2160 x 1080]] RGB 서브픽셀 방식의 IPS TFT-LCD[br]멀티터치 지원 정전식 [[터치 스크린]]||
+||<bgcolor=#DCDCDC>[[네트워크]]||[[LTE]] Cat.9, [[4G|HSPA+]] 42Mbps, [[WCDMA|HSDPA & HSUPA & UMTS]], [[GSM|GSM & EDGE]]||
+||<bgcolor=#DCDCDC>근접통신||[[Wi-Fi]] 802.11a/b/g/n/ac, [[블루투스]] 5.0, [[NFC]]||
+||<bgcolor=#DCDCDC>[[카메라]]||전면 800만 화소, 후면 1,300만 화소 x 2 듀얼 렌즈 [[AF]] 및 [[LED]] [[플래시(카메라)|플래시]]||
+||<bgcolor=#DCDCDC>[[배터리]]||Li-Ion 3300 mAh||
+||<bgcolor=#DCDCDC>[[운영체제]]||[[안드로이드(운영체제)/버전|안드로이드]] 8.1 (Oreo)[br]큐리텔 큐리 UI 1.0||
+||<bgcolor=#DCDCDC>규격||155.1 x 75.5 x 7.1 mm, 153 g||
+||<bgcolor=#DCDCDC>색상[* 한국 출시 당시 기본 색상에 볼드 처리]||'''블랙''', '''화이트''', '''레드'''||
+||<bgcolor=#DCDCDC>단자정보||[[USB 3.0|USB 3.1 Gen1]] Type-C x 1, 3.5 mm 단자 x 1||
+||<bgcolor=#DCDCDC>기타||[[VoLTE]] 및 Wideband Audio 지원, 에어리어 방식 [[지문인식]] 지원, 지상파 HD [[DMB]] 및 고화질 스마트 [[DMB]] 지원||
+||<-2><bgcolor=#DCDCDC><:>'''한국 내수용 모델인 CM-E700 이외 지역 하드웨어 사양'''{{{#!folding [ 펼치기 · 접기 ]
+||<(><bgcolor=#DCDCDC>[[SoC|프로세서]]||<(>[[퀄컴 스냅드래곤 6]]60 SDM660 [[SoC]]. [[Qualcomm Kryo]] 260 MP4 2.2 GHz + MP4 1.8 GHz [[CPU]], [[퀄컴 Adreno]] 512 [[GPU]]||
+||<(><bgcolor=#DCDCDC>[[메모리]]||<(>4 GB LPDDR4 SDRAM, 16 / 32 / 64 GB [[eMMC]] 2.0 규격 내장 메모리, [[Secure Digital|micro SDHC]] (최대 32 GB 지원)||
+||<(><bgcolor=#DCDCDC>[[디스플레이|디스[br]플레이]]||<(>6.0인치 [[해상도/일람|2160 x 1080]] RGB 서브픽셀 방식의 IPS TFT-LCD[br]멀티터치 지원 정전식 [[터치 스크린]]||
+||<(><bgcolor=#DCDCDC>[[네트워크]]||<(>[[LTE]] Cat.9, [[4G|HSPA+]] 42Mbps, [[WCDMA|HSDPA & HSUPA & UMTS]], [[GSM|GSM & EDGE]], [[CDMA2000|CDMA & EV-DO Rev.A]][* 지원 모델 추가 지원]||
+||<(><bgcolor=#DCDCDC>근접통신||<(>[[Wi-Fi]] 802.11a/b/g/n/ac, [[블루투스]] 5.0, [[NFC]]||
+||<(><bgcolor=#DCDCDC>[[카메라]]||<(>전면 800만 화소, 후면 1,300만 화소 x 2 듀얼 렌즈 [[AF]] 및 [[LED]] [[플래시(카메라)|플래시]]||
+||<(><bgcolor=#DCDCDC>[[배터리]]||<(>Li-Ion 3300 mAh||
+||<(><bgcolor=#DCDCDC>[[운영체제]]||<(>[[안드로이드(운영체제)/버전|안드로이드]] 8.1 (Oreo)[br]큐리텔 큐리 UI 1.0||
+||<(><bgcolor=#DCDCDC>규격||<(>155.1 x 75.5 x 7.1 mm, 153 g||
+||<(><bgcolor=#DCDCDC>색상[* 제품 공개 당시 같이 공개된 기본 색상에 볼드 처리]||<(>'''블랙''', '''화이트''', '''레드'''||
+||<(><bgcolor=#DCDCDC>단자정보||<(>[[USB 3.0|USB 3.1 Gen1]] Type-C x 1, 3.5 mm 단자 x 1[br]일부 모델 하이브리드 듀얼심 지원 ||
+||<(><bgcolor=#DCDCDC>기타||<(>[[FM#s-2|FM]] [[라디오]] 지원, 에어리어 방식 [[지문인식]] 지원||
+}}}||
+
+= cdcf1880-f50d-1a5d-9f12-2430e94e9fad =
+||<bgcolor=#DCDCDC>[[SoC|프로세서]]||[[퀄컴 스냅드래곤 6]]00 APQ8064T [[SoC]]. [[Qualcomm Krait]] 300 MP4 1.7 GHz [[CPU]], [[퀄컴 Adreno]] 320 [[GPU]]||
+||<bgcolor=#DCDCDC>[[메모리]]||2 GB LPDDR2 SDRAM, 16 GB 내장 메모리, [[Secure Digital|SDXC]] (2 TB 공식 지원)||
+||<bgcolor=#DCDCDC>[[디스플레이]]||D-Sub 출력, 최대 HD(1280 x 720) / WXGA(1280 x 800), / SXGA
+(1280 x 960)  출력 지원||
+||<bgcolor=#DCDCDC>근접통신||[[Wi-Fi]] 802.11a/b/g/n, [[블루투스]] 4.0||
+||<bgcolor=#DCDCDC>[[운영체제]]||[[임베디드 시스템]]||
+||<bgcolor=#DCDCDC>규격||||
+||<bgcolor=#DCDCDC>색상||'''화이트'''||
+||<bgcolor=#DCDCDC>단자정보||USB 2.0 Type-A x 2, 3.5 mm 단자 x 1, LAN 단자 x 1||
+||<bgcolor=#DCDCDC>기타||||
+
+= eb2aaadb-3294-46bc-8455-3ec2b136f963 =
+||<bgcolor=#DCDCDC>[[SoC|프로세서]]||[[퀄컴 스냅드래곤 8]]35 APQ8098 [[SoC|Platform]]. [[Qualcomm Kryo]] 280 MP4 2.35 GHz + MP4 1.9 GHz [[CPU]], [[퀄컴 Adreno]] 540 710 MHz [[GPU]]||
+||<bgcolor=#DCDCDC>[[메모리]]||8 GB LPDDR4X SDRAM, 256 GB [[eMMC]] 2.1 규격 내장 메모리, [[Secure Digital|micro SDXC]] (2 TB 공식 지원)||
+||<bgcolor=#DCDCDC>근접통신||[[Wi-Fi]] 802.11a/b/g/n/ac, [[블루투스]] 5.0||
+||<bgcolor=#DCDCDC>[[배터리]]||Li-Ion 1230 mAh||
+||<bgcolor=#DCDCDC>[[운영체제]]||[[Kubuntu]] 16.04 LTS (Xenial Xerus)||
+||<bgcolor=#DCDCDC>규격||125 x 70 x 10mm, 155g ||
+||<bgcolor=#DCDCDC>색상[* 한국 출시 당시 기본 색상에 볼드 처리]||'''실버'''||
+||<bgcolor=#DCDCDC>단자정보||[[USB 3.0|USB 3.1 Gen1]] Type-C x 2, [[USB 2.0]] Type-A x 1||
+||<bgcolor=#DCDCDC>기타||||
+
+= f04fb17c-deae-5bf9-007b-6bbc9a2bc538 =
+||<bgcolor=#DCDCDC>[[SoC|프로세서]]||[[퀄컴 스냅드래곤]] 800 APQ8074 [[SoC]]. [[Qualcomm Krait]] 400 MP4 2.3 GHz [[CPU]], 퀄컴 Adreno 330 [[GPU]]||
+||<bgcolor=#DCDCDC>[[메모리]]||4 GB LPDDR3 SDRAM, 128 GB 내장 메모리||
+||<bgcolor=#DCDCDC>[[디스플레이|디스]][br][[디스플레이|플레이]]||7.0인치 [[해상도/일람|WXGA]](1280 x 800) RGB 서브픽셀 방식의 IPS TFT-LCD[br]멀티터치 지원 정전식 [[터치 스크린]]||
+||<bgcolor=#DCDCDC>근접통신||[[Wi-Fi]] 802.11a/b/g/n/ac, [[블루투스]] 4.1 ||
+||<bgcolor=#DCDCDC>[[배터리]]||내장형 Li-lon 4200 mAh||
+||<bgcolor=#DCDCDC>[[운영체제]]||[[Kubuntu]] 17.04 (Zesty Zapus) → 17.10 (Artful Aardvark)||
+||<bgcolor=#DCDCDC>규격||115 x 200 x 8.8 mm, 290 g||
+||<bgcolor=#DCDCDC>단자정보||USB 2.0 Type-C x 1, 3.5 mm 단자 x 1||
+||<bgcolor=#DCDCDC>기타||||
+
+= 66c8fba3-a666-f42b-94d2-0172c9f46785 =
+||<tablealign=center><width=5%><:>파트넘버||<width=40%><:>LS9000||
+||<:>[[CPU]]||<:>[[ARM Cortex-A73]] MP4 2.7 GHz '''Burst''' 3 GHz + [[ARM Cortex-A53]] MP4 2.3 GHz||
+||<:>[[GPU]]||<:>[[ARM Mali]]-G71 MP8 1.5 GHz||
+||<:>[[메모리]]||<:>64-bit 듀얼채널 LPDDR4X 1866 MHz||
+||<:>생산 공정||<:>삼성 파운드리 10nm FinFET LPE||
+
+= ac0abbc2-a59e-ba96-cc16-beda879c67f5 =
+||<bgcolor=#DCDCDC>[[SoC|프로세서]]||자체 개발 [[SoC]]([[TSMC]] 16nm FinFET Compact+). [[ARM Cortex-A53]] MP2 1 GHz [[CPU]], [[ARM Mali]]-450 MP2 281 MHz [[GPU]]||
+||<bgcolor=#DCDCDC>[[메모리]]||512 MB LPDDR2 SDRAM, 128 GB 내장 메모리||
+||<bgcolor=#DCDCDC>[[디스플레이]]||4.8인치 [[해상도/일람|HD]](1280 x 720) RGB 서브픽셀 방식의 JDI IPS TFT-LCD[br]감압식 [[터치 스크린]]||
+||<bgcolor=#DCDCDC>[[배터리]]||내장형 Li-Ion 2150 mAh||
+||<bgcolor=#DCDCDC>[[운영체제]]||[[임베디드 시스템]][br][[팬택 플럭스 UI]] 4.0||
+||<bgcolor=#DCDCDC>규격||70 x 135 x 9.6 mm, 141 g||
+||<bgcolor=#DCDCDC>색상||블랙 ||
+||<bgcolor=#DCDCDC>단자정보||<-3>[[USB 3.0|USB 3.1 Gen1]] Type-C x 1, 3.5 mm 단자 x 1||
+||<bgcolor=#DCDCDC>기타|| ||
+
+= 8edaa5ea-c226-723a-daaf-e9033dff9e40 =
+||<bgcolor=#DCDCDC>[[SoC|프로세서]]||자체 개발 [[SoC]]([[TSMC]] 16nm FinFET Compact+). [[ARM Cortex-A53]] MP2 800 MHz [[CPU]], Vivante GCNano Ultra 3 [[GPU]]||
+||<bgcolor=#DCDCDC>[[메모리]]||512 MB LPDDR2 SDRAM, 128 GB 내장 메모리||
+||<bgcolor=#DCDCDC>[[디스플레이|디스[br]플레이]]||4.0인치 [[해상도/일람|HD]](1280 x 720) RGB 서브픽셀 방식의 IPS TFT-LCD[br]멀티터치 지원 정전식 [[터치 스크린]]||
+||<bgcolor=#DCDCDC>[[배터리]]||내장형 Li-Ion 1700 mAh||
+||<bgcolor=#DCDCDC>[[운영체제]]||[[임베디드 시스템]]||
+||<bgcolor=#DCDCDC>규격||60 x 120 x 7.5 mm, 110 g||
+||<bgcolor=#DCDCDC>색상[* 한국 출시 당시 기본 색상에 볼드 처리]||'''블랙 그레이'''||
+||<bgcolor=#DCDCDC>단자정보||USB 2.0 Type-C x 1, 3.5 mm 단자 x 1||
+||<bgcolor=#DCDCDC>기타||||
